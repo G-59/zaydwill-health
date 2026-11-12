@@ -1,0 +1,13 @@
+.next/
+node_modules/
+.env.local
+.env*.local
+.garmin-auth.json
+.cronometer-session.json
+.garmin-login.lock
+*.log
+.DS_Store
+.vercel
+
+# Claude Code project settings (contain personal tokens)
+.claude/
